@@ -1,0 +1,11 @@
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\bin\Debug\net8.0\WordFinder.deps.json
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\bin\Debug\net8.0\WordFinder.dll
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\bin\Debug\net8.0\WordFinder.pdb
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\obj\Debug\net8.0\WordFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\obj\Debug\net8.0\WordFinder.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\obj\Debug\net8.0\WordFinder.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\obj\Debug\net8.0\WordFinder.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\obj\Debug\net8.0\WordFinder.dll
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\obj\Debug\net8.0\refint\WordFinder.dll
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\obj\Debug\net8.0\WordFinder.pdb
+C:\Users\Marcos\source\repos\WordFinder.UnitTest\WordFinder\obj\Debug\net8.0\ref\WordFinder.dll
